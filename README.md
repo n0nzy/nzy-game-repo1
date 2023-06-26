@@ -1,2 +1,2 @@
 # nzy-game-repo1
-Repo for testing some stuff
+Repo for testing interesting stuff.
